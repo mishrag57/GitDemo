@@ -46,6 +46,9 @@ public class Day1 {
 		WebElement emailAddressField = driver.findElement(with(By.tagName("input"))
 		.above(passwordField));
 		
+		System.out.println("1");
+		System.out.println("2");
+		
 
 //		int count = 1;
 //		while (count <= 20) {
