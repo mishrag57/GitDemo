@@ -49,6 +49,10 @@ public class Day1 {
 		System.out.println("1");
 		System.out.println("2");
 		
+		System.out.println("develop 1");
+		
+		System.out.println("develop 2");
+		
 
 //		int count = 1;
 //		while (count <= 20) {
