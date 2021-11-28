@@ -49,8 +49,14 @@ public class Day1 {
 		System.out.println("1");
 		System.out.println("2");
 		
+<<<<<<< HEAD
 		System.out.println("master1");
 		System.out.println("master2");
+=======
+		System.out.println("develop 1");
+		
+		System.out.println("develop 2");
+>>>>>>> develop
 		
 
 //		int count = 1;
